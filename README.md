@@ -1,1 +1,1 @@
-# dice2
+# dice2 refresh the page
